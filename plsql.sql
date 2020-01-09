@@ -2,8 +2,8 @@ declare
 
 
 /*le aumente 10 bytes*/
-p_letter  varchar2(20) :='Hola mundo ';
-p_letter2 varchar2(40) :='y Hola Daniel';
+p_letter  varchar2(20) :='Hola mundo';
+p_letter2 varchar2(40) :=' y Hola Daniel';
 v_letter varchar2(50);
 
 begin
