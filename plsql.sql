@@ -1,7 +1,7 @@
 declare
 
 p_letter  varchar2(10) :='Hola mundo';
-p_letter2 varchar2(10) :=' y Hola Daniel';
+p_letter2 varchar2(40) :=' y Hola Daniel';
 v_letter varchar2(50);
 
 begin
