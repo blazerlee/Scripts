@@ -14,5 +14,5 @@ begin
 select p_letter ||p_letter2 into v_letter from dual;
 select sysdate into v_date from dual;
 dbms_output.put_line(v_letter);
-dbms_output.put_line(v_date);
+/*dbms_output.put_line(v_date);*/
 end;
